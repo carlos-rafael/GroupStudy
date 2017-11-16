@@ -11,5 +11,8 @@ button{
 
 a {
     text-decoration: none !important;
+}
 
+li{
+    display:inline
 }
