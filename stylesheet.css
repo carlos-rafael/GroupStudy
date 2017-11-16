@@ -1,0 +1,23 @@
+body{
+    background-color:cornflowerblue;
+    font-size: 1em;
+}
+
+button{
+    background-color:darkslateblue;
+    border-radius: 20px;
+
+}
+
+a {
+    text-decoration: none !important;
+}
+
+li{
+    display:inline
+}
+
+a:hover{
+    background-color:darkslateblue;
+    border-radius: 20px;
+}
