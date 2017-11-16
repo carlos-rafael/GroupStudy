@@ -24,3 +24,19 @@ a:hover{
 
     border-radius: 20px;
 }
+
+h1{
+    text-align: center;
+}
+
+#menu{
+    background-color:darkcyan;
+    border-radius: 2em;
+}
+
+#menu a{
+    font-size: 1.8em;
+    padding:1em;
+    padding-top:0;
+    padding-bottom:0;
+}
